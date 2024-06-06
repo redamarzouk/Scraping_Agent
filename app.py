@@ -131,7 +131,7 @@ if __name__ == "__main__":
         save_raw_data(raw_data, timestamp)
         
         # Format data
-        formatted_data = format_data(raw_data,phone_fields)
+        formatted_data = format_data(raw_data)
         
         # Save formatted data
         save_formatted_data(formatted_data, timestamp)
