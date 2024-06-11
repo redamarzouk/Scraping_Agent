@@ -1,5 +1,5 @@
 firecrawl-py
 openai
-python-dotenv
+dotenv
 pandas
 openpyxl
